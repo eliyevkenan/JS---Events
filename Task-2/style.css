@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.body{
+    width: 600px;
+    height: 600px;
+    margin-top: 50px;
+    margin-left: 400px;
+    background-color: aqua;
+    position: relative;
+}
+.ball{
+    width: 50px;
+    height: 50px;
+    background-color: bisque;
+    border-radius: 50%;
+    position: absolute;
+    margin: 0 auto;
+    margin-top: 200px;
+}
